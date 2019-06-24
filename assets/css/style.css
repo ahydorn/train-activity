@@ -11,7 +11,8 @@ h1 {
 }
 
 body {
-    background-image: url('https://images.pexels.com/photos/556416/pexels-photo-556416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background: url('../images/wallpaper.jpg');
+    background-size: cover;
     width: 80%;
     margin-left: 10%;
 }
