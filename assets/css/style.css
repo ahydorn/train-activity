@@ -1,9 +1,9 @@
 .jumbotron {
-    background-color: royalblue;
-    color: whitesmoke;
+    background-color: #dff0d8;
+    color: charcoal;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: gray;
 }
